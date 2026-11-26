@@ -1,52 +1,43 @@
-# <img src="https://img.shields.io/badge/👋-Hi%2C%20I'm%20Prabin%20Prasain-58A6FF?style=flat" />
+# 👋 Hi, I'm Prabin Prasain
 
 <p align="center">
-  <img src="banner.png" width="100%" alt="Prabin Prasain Developer Banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%26+TypeScript+Developer;MSc+Computational+Sciences;Building+Modern+Web+Experiences" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://prabinprasain.com.np">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0ea5e9?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:prabinprasainofficial@gmail.com">
-    <img src="https://img.shields.io/badge/✉_Email-Contact_Me-6366f1?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Prabin524">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a graduate student in **Computational Sciences at Laurentian University, Canada**.
-
-I enjoy building modern, responsive, and user-friendly web applications, exploring AI and intelligent systems, and working on real-world software projects.
-
-<details>
-<summary>🎓 More about me</summary>
-
-- 🎓 MSc Computational Sciences
-- 💻 Front-End Developer
-- ⚛️ React & TypeScript
-- 🎨 UI/UX and responsive web design
-- 🤖 Interested in AI and intelligent systems
-- 🌍 Ontario, Canada
-
-</details>
+- 🎓 Master's student in **Computational Sciences** at Laurentian University, Canada
+- 💻 Passionate about **Front-End Development, Web Technologies and UI/UX**
+- 🌱 Exploring **AI, automation and intelligent software systems**
+- 🛠️ Building practical projects that combine creativity and technology
+- 🌍 Based in **Ontario, Canada**
+- 🎯 Focused on building modern, responsive and user-friendly applications
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,python,git,github,vscode,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,python,git,github,vscode,figma&perline=6" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 💻 Featured Projects
 
 <table>
 <tr>
@@ -54,69 +45,34 @@ I enjoy building modern, responsive, and user-friendly web applications, explori
 
 ### 🌐 Damascus Shawarma
 
-Modern restaurant website featuring responsive design and online ordering links.
+A modern restaurant website built with React, TypeScript and Tailwind CSS.
 
-**Technologies**
-
-`React` `TypeScript` `Tailwind`
+**Tech:** React · TypeScript · Vite · Tailwind CSS
 
 </td>
 <td width="50%">
 
 ### 🤖 NPM SBOM Risk Agent
 
-Software dependency analysis project focused on identifying and assessing package vulnerabilities.
+A software dependency analysis project focused on identifying and assessing package vulnerabilities.
 
-**Technologies**
-
-`Python` `SBOM` `OSV API`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 👥 Employee Management System
-
-Academic project focused on employee management, roles and schedules.
-
-**Technologies**
-
-`React` `API` `UI/UX`
-
-</td>
-<td width="50%">
-
-### 💻 Personal Portfolio
-
-Portfolio website showcasing projects, skills and experience.
-
-**Technologies**
-
-`React` `Vite` `Responsive Design`
+**Tech:** Python · SBOM · OSV API
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/Prabin524?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-All_Repositories-58A6FF?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prabin524&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabin524&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Prabin524&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabin524&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Prabin524&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Prabin524&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -124,17 +80,17 @@ Portfolio website showcasing projects, skills and experience.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prabin524&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabin524&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡-Build%20something%20useful.%20Make%20it%20simple.%20Make%20it%20better.-0d1117?style=for-the-badge" />
+  <b>Build something useful. Make it simple. Make it better. 🚀</b>
 </p>
 
 <p align="center">
-  <a href="https://prabinprasain.com.np">Portfolio</a> •
-  <a href="mailto:prabinprasainofficial@gmail.com">Email</a> •
-  <a href="https://github.com/Prabin524">GitHub</a>
+  <a href="https://prabinprasain.com.np">🌐 Portfolio</a> •
+  <a href="mailto:prabinprasainofficial@gmail.com">📧 Email</a> •
+  <a href="https://github.com/Prabin524">💻 GitHub</a>
 </p>
