@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 - 💻 Passionate about **Front-End Development, Web Technologies and UI/UX**
 - 🌱 Exploring **AI, automation and intelligent software systems**
 - 🛠️ Building practical projects that combine creativity and technology
-- 🌍 Based in **Ontario, Canada**
 - 🎯 Focused on building modern, responsive and user-friendly applications
 
 ---
