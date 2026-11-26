@@ -5,18 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%26+TypeScript+Developer;MSc+Computational+Sciences;Building+Modern+Web+Experiences" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://prabinprasain.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio"/>
   </a>
   <a href="mailto:prabinprasainofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/✉️_Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
   </a>
   <a href="https://github.com/Prabin524">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -36,7 +32,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,python,git,github,vscode,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,python,git,github,vscode,figma&perline=6" alt="Tech Stack"/>
 </p>
 
 ---
@@ -71,12 +67,12 @@ A software dependency analysis project focused on identifying and assessing pack
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Prabin524&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabin524&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Prabin524&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabin524&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prabin524&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Prabin524&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -84,7 +80,7 @@ A software dependency analysis project focused on identifying and assessing pack
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabin524&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabin524&theme=tokyo-night&hide_border=true" alt="Contribution Activity"/>
 </p>
 
 ---
