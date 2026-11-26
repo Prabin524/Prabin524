@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Prabin Prasain
 
 <p align="center">
+  <img src="banner.png" width="100%" alt="Prabin Prasain Developer Banner"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%26+TypeScript+Developer;MSc+Computational+Sciences;Building+Modern+Web+Experiences" alt="Typing SVG" />
 </p>
 
