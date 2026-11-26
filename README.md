@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Prabin Prasain
 
 <p align="center">
   <img src="banner.png" width="100%" alt="Prabin Prasain Developer Banner"/>
